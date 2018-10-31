@@ -161,7 +161,7 @@ function nisarg_entry_footer() {
 		 ' . esc_html__( '%1$s', 'nisarg' ) . '</span></div>', $categories_list ); // WPCS: XSS OK.
 				}
 				else{
-					echo '<div class="col-md-6 cattegories"><span class="cat-links"><i class="fa fa-folder-open"></i></span></div>'; 
+					// echo '<div class="col-md-6 cattegories"><span class="cat-links"><i class="fa fa-folder-open"></i></span></div>'; 
 				}
 
 				

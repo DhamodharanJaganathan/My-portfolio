@@ -638,6 +638,10 @@ h1.arrow span {
 	transition:all .3s ease-out;
 	border: 1px solid #E04343;
 	color: #E04343;
+	padding-top: 55px;
+    padding-right: 55px;
+    padding-bottom: 55px;
+    padding-left: 55px;
 }
 .services .item:hover .icon {
 	background: #E04343;
@@ -925,9 +929,8 @@ ul.social-buttons li:last-child {
 	background: #E04343;
 	display:inline-block;
 	color:#fff;
-	font-size:17px;
-	line-height:40px;
-	text-align:center;
+	font-size:40px;
+	line-height:40px;	
 }
 .social-btn:hover,.social-btn:focus {
 	background: rgba(255, 232, 0, 1);
