@@ -321,7 +321,7 @@ table {
 	padding:0;
 }
 .inner {
-	padding-top: 138px;
+	/*padding-top: 138px;*/
 }
 /* ==========================================================================Navigation========================================================================== */
 .menu-wrap a {
@@ -483,7 +483,8 @@ table {
 }
 .hero p {
 	letter-spacing:1px;
-	color:#fff;
+	color:#E04343;
+	font-weight: bold;
 	font-size: 15px;
 }
 /* Boucing Arrow Animation */
@@ -638,10 +639,6 @@ h1.arrow span {
 	transition:all .3s ease-out;
 	border: 1px solid #E04343;
 	color: #E04343;
-	padding-top: 55px;
-    padding-right: 55px;
-    padding-bottom: 55px;
-    padding-left: 55px;
 }
 .services .item:hover .icon {
 	background: #E04343;
